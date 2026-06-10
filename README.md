@@ -15,7 +15,37 @@ This project was inspired by my blind daughter and was created to explore how mo
 📈 Approximately 80% Complete
 
 ## Live Demo
+## Screenshots
 
+### Home Screen
+![Home Screen](images/image%201.JPG)
+
+### About Salve
+![About Salve](images/image%202.JPG)
+
+### Feature Overview
+![Features](images/image%203.JPG)
+
+### Accessibility Features
+![Accessibility](images/image%204.JPG)
+
+### Voice Commands
+![Voice Commands](images/image%205.JPG)
+
+### Voice Messaging
+![Voice Messaging](images/image%206.JPG)
+
+### Parent Interface
+![Parent Interface](images/image%207.JPG)
+
+### Communication Features
+![Communication](images/image%208.JPG)
+
+### User Experience
+![User Experience](images/image%209.JPG)
+
+### Additional Screens
+![Additional Screen](images/image%2010.JPG)
 Website:
 
 https://salveapp-ztvyz8sv.manus.space/website/
