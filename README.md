@@ -1,5 +1,5 @@
 # Salve App
-
+Accessibility Communication Platform for Blind and Deaf-Blind Users
 ## Accessible Communication for Every Heart
 
 Salve App is an accessibility-focused communication platform designed to help blind and deaf-blind individuals communicate more independently with their families through voice commands, gesture navigation, and haptic feedback.
