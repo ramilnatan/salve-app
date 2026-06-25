@@ -17,6 +17,10 @@ This project was inspired by my blind daughter and was created to explore how mo
 ## Live Demo
 ## Screenshots
 
+Website:
+
+https://salveapp-ztvyz8sv.manus.space/website/
+
 ### Home Screen
 ![Home Screen](images/image%201.JPG)
 
@@ -46,9 +50,6 @@ This project was inspired by my blind daughter and was created to explore how mo
 
 ### Additional Screens
 ![Additional Screen](images/image%2010.JPG)
-Website:
-
-https://salveapp-ztvyz8sv.manus.space/website/
 
 ## Key Features
 
